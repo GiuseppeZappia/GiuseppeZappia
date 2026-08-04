@@ -1,45 +1,42 @@
-# Hey there 👋 I'm Giuseppe Zappia  
+# Hey there 👋 I'm Giuseppe
 
-🎓 I'm a second-year Master's student in **Computer Engineering** (AI & Machine Learning) at **University of Calabria (UNICAL)**.  
-I'm currently focused on my studies and university projects, exploring different areas of AI and computer science — still figuring out where I fit best, but loving the journey.
+🎓 I'm wrapping up my MSc in **Computer Engineering** (AI & Machine Learning) at the **University of Calabria (UNICAL)** — and I'm about to start a new chapter in **Berlin**, joining the **European Patent Office** as a Young Professional in the Advanced Computing team.
 
----
-
-## ⚙️ About Me  
-
-- 💡 Interested in **Artificial Intelligence**, **Machine Learning**, and how these technologies can shape the future  
-- ⚽ Huge **football fan** and proud **AC Milan** supporter  
-- 🎧 Love **music**, **sports analytics**, and tech that makes life a little smarter  
-- 💭 Dream: to one day work as a computer engineer for a football club (hopefully the one with red and black stripes 😉)
+Somewhere between training models and watching football, I keep chasing the same idea: using tech to actually make sense of the beautiful game. Still figuring things out, still loving the journey.
 
 ---
 
-## 🚀 Featured Projects  
+## ⚙️ A bit about me
 
-### 🧩 [QuestMaster](https://github.com/GiuseppeZappia/QuestMaster_AI)  
-An interactive system combining **Generative AI (LLMs)** and **symbolic planning (PDDL)** to help authors design and validate coherent quest narratives, turning them into playable web adventures.
-
-### 🔗 [OBDA-Mapping Generator](https://github.com/GiuseppeZappia/OBDA-Mapping-Generator)  
-An internship project — an **LLM-powered tool** for generating OBDA mapping files (`.obda`) from database schemas and ontologies, built with **Flask**, **Vue**, and **TailwindCSS**.
-
-### ✈️ [American Flights Data Analysis](https://github.com/GiuseppeZappia/ProgettoBigData)  
-A **Big Data** project using **Apache Spark** to perform aggregated queries and analysis on a large dataset of US flight information.
+- 💡 Into **AI & Machine Learning** — especially NLP, information retrieval, and LLMs that do something genuinely useful
+- ⚽ Die-hard **football fan** and proud **AC Milan** supporter
+- 🎧 Big on **music** and **sports analytics**
+- 🧑‍🏫 Also an **Academic Tutor** at UNICAL, teaching intro CS to first-year students
+- 💭 The dream: to one day work as an engineer for a football club (red & black stripes preferred 😉)
 
 ---
 
-## 🤝 Collaboration  
+## 🚀 Stuff I've built
 
-I'm open to **collaborations** and contributing to **open-source projects**.  
-Feel free to reach out — I’m always happy to learn from others and share ideas.
+### ⚽ [ScoutAI](https://github.com/GiuseppeZappia/ScoutAI)
+A football scouting & match-analysis platform that lets you search players in plain English — *"a rugged under-21 defensive mid under €5M"* — instead of wrestling with a hundred filters. Built on an NLP + Information Retrieval pipeline: **FastAPI**, **Qdrant**, **LangChain + LLaMA-3**, and a **React/TypeScript** frontend. Basically my two passions in one repo.
+
+### 🧩 [QuestMaster](https://github.com/GiuseppeZappia/QuestMaster_AI)
+An interactive system blending **Generative AI (LLMs)** and **symbolic planning (PDDL)** to help authors design and validate coherent quest narratives, then turn them into playable web adventures.
+
+### 🔗 [OBDA-Mapping Generator](https://github.com/GiuseppeZappia/OBDA-Mapping-Generator)
+An **LLM-powered tool** for generating OBDA mapping files (`.obda`) from database schemas and ontologies, built during my research internship at **Aalborg University**. Flask + Vue + TailwindCSS.
+
+> 🔬 Currently: finishing my **MSc thesis** on formal data anonymization.
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Connect with me
 
-- 📧 Email: [giuseppe.zappia02@gmail.com](mailto:giuseppe.zappia02@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/giuseppezappia](https://www.linkedin.com/in/giuseppezappia/)  
-- 📸 Instagram: [@giuseppeezappia](https://www.instagram.com/giuseppeezappia/)  
+- 📧 Email: <giuseppe.zappia02@gmail.com>
+- 💼 LinkedIn: [linkedin.com/in/giuseppezappia](https://www.linkedin.com/in/giuseppezappia/)
+- 📸 Instagram: [@giuseppeezappia](https://www.instagram.com/giuseppeezappia/)
 
 ---
 
-> _"Still learning, still curious, always improving."_  
+> *"Still learning, still curious, always improving."*
